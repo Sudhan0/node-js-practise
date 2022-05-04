@@ -1,0 +1,22 @@
+[
+    {
+        "id":"s001",
+        "name":"HHS",
+        "location":"coimbatore"
+    },
+    {
+        "id":"s002",
+        "name":"SMR",
+        "location":"coimbatore"
+    },
+    {
+        "id":"s003",
+        "name":"Suga",
+        "location":"Chennai"
+    },
+    {
+        "id":"s004",
+        "name":"Abhi",
+        "location":"Trichy"
+    }
+]

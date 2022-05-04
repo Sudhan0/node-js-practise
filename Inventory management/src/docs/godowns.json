@@ -1,0 +1,17 @@
+[{
+    "godownId":"g001",
+    "location":"coimbatore"
+},
+{
+    "godownId":"g002",
+    "location":"Banglore"
+},
+{
+    "godownId":"g003",
+    "location":"Trichy"
+},
+{
+    "godownId":"g004",
+    "location":"Chennai"
+}
+]
