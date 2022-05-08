@@ -1,91 +1,47 @@
 [
   {
     "name": "paracetamol",
-    "id": "001",
+    "id": 1,
     "expiry data": "20-12-2023"
   },
   {
     "name": "Amoxcillin",
-    "id": "002",
+    "id": 2,
     "expiry data": "20-12-2023"
   },
   {
     "name": "Acetofenac",
-    "id": "003",
+    "id": 3,
     "expiry data": "20-12-2023"
   },
   {
     "name": "ceterzine",
-    "id": "004",
+    "id": 4,
     "expiry data": "20-12-2023"
   },
   {
     "name": "Dolo-650",
-    "id": "005",
+    "id": 5,
     "expiry data": "20-12-2023"
   },
   {
     "name": "Ketoconazole",
-    "id": "006",
-    "expiry date": "04-05-2023"
+    "expiry date": "04-05-2023",
+    "id":6
   },
   {
     "name": "Keto",
-    "id": "007",
-    "expiry date": "04-05-2023"
+    "expiry date": "04-05-2023",
+    "id": 7
   },
   {
     "name": "Immunosate",
-    "id": "008",
-    "expiry date": "04-05-2023"
+    "expiry date": "04-05-2023",
+    "id":8
   },
   {
     "name": "Revital",
-    "id": "009",
+    "id":9,
     "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Revital",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Revital",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Revital",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Revi",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Revi",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Revi",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Sevi",
-    "id": "009",
-    "expiry date": "04-05-2023"
-  },
-  {
-    "name": "Acetofenac",
-    "id": "003",
-    "expiry data": "20-12-2023"
   }
 ]
