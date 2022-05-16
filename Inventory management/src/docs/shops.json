@@ -1,22 +1,17 @@
 [
-    {
-        "id":"s001",
-        "name":"HHS",
-        "location":"coimbatore"
-    },
-    {
-        "id":"s002",
-        "name":"SMR",
-        "location":"coimbatore"
-    },
-    {
-        "id":"s003",
-        "name":"Suga",
-        "location":"Chennai"
-    },
-    {
-        "id":"s004",
-        "name":"Abhi",
-        "location":"Trichy"
-    }
+  {
+    "name": "Shop1",
+    "location": "Chennai",
+    "id": 1
+  },
+  {
+    "name": "Shop2",
+    "location": "Trichy",
+    "id": 2
+  },
+  {
+    "name": "Shop3",
+    "location": "Coimbatore",
+    "id": 3
+  }
 ]

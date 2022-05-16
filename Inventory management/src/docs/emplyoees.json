@@ -2,15 +2,50 @@
   {
     "name": "Sudhan",
     "dob": "05/04/2001",
+    "age": "22",
+    "workplace": "godown 2",
     "email": "sudhan@gmail.com",
+    "role": "admin",
     "password": "123qazwsx",
     "id": 1
   },
   {
-    "name": "Sudhan",
+    "name": "Hari",
     "dob": "05/04/2001",
-    "email": "sudhan@gmail.com",
+    "age": "22",
+    "workplace": "godown 2",
+    "email": "hari@gmail.com",
+    "role": "HR",
     "password": "123qazwsx",
     "id": 2
+  },
+  {
+    "name": "Himanshu",
+    "age": "21",
+    "workplace": "godown 1",
+    "dob": "05/04/2001",
+    "email": "himanshu@gmail.com",
+    "password": "123qazwsx",
+    "id": 3,
+    "role": "L2"
+  },
+  {
+    "name": "Kishore",
+    "age": "21",
+    "workplace": "godown 1",
+    "dob": "05/04/2001",
+    "email": "kishore@gmail.com",
+    "password": "123qazwsx",
+    "id": 4
+  },
+  {
+    "name": "Sachin",
+    "dob": "05/04/2001",
+    "age": "22",
+    "workplace": "godown 2",
+    "email": "Sachin@gmail.com",
+    "password": "123qazwsx",
+    "id": 5,
+    "role": "admin"
   }
 ]

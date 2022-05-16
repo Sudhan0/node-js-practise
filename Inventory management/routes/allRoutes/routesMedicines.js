@@ -4,4 +4,6 @@ const controllerMedicine = require('../../controller/medicines/controllerMedicin
 router.get('/list',controllerMedicine.listMedicine);
 router.get('/listByValue',controllerMedicine.listbyValue);
 router.post('/push',controllerMedicine.pushMedicines);
+router.get('/expired',controllerMedicine.expired);
 module.exports=router;
+

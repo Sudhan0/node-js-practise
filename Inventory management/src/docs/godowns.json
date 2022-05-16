@@ -1,17 +1,32 @@
-[{
-    "godownId":"g001",
-    "location":"coimbatore"
-},
-{
-    "godownId":"g002",
-    "location":"Banglore"
-},
-{
-    "godownId":"g003",
-    "location":"Trichy"
-},
-{
-    "godownId":"g004",
-    "location":"Chennai"
-}
+[
+  {
+    "id": 1,
+    "name": "Godwon1",
+    "location": "coimbatore"
+  },
+  {
+    "id": 2,
+    "name": "Godwon2",
+    "location": "Banglore"
+  },
+  {
+    "id": 3,
+    "name": "Godwon3",
+    "location": "Trichy"
+  },
+  {
+    "id": 4,
+    "name": "Godwon4",
+    "location": "Chennai"
+  },
+  {
+    "name": "Godwon5",
+    "location": "Tirunelveli",
+    "id": 5
+  },
+  {
+    "name": "Godwon6",
+    "location": "Tirunelveli",
+    "id": 6
+  }
 ]

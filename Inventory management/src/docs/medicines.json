@@ -2,46 +2,89 @@
   {
     "name": "paracetamol",
     "id": 1,
-    "expiry data": "20-12-2023"
+    "expiry date": "12-20-2021",
+    "manufacture date": "10-20-2021",
+    "company": "Cipla",
+    "unit price": "2"
   },
   {
     "name": "Amoxcillin",
     "id": 2,
-    "expiry data": "20-12-2023"
+    "expiry date": "12-20-2021",
+    "manufacture date": "10-20-2021",
+    "company": "Cipla",
+    "unit price": "10"
   },
   {
     "name": "Acetofenac",
     "id": 3,
-    "expiry data": "20-12-2023"
+    "expiry date": "11-20-2023",
+    "manufacture date": "1-20-2022",
+    "company": "Lupin",
+    "unit price": "7"
   },
   {
     "name": "ceterzine",
     "id": 4,
-    "expiry data": "20-12-2023"
+    "expiry date": "20-12-2023",
+    "manufacture date": "1-20-2022",
+    "company": "Lupin",
+    "unit price": "5"
   },
   {
     "name": "Dolo-650",
     "id": 5,
-    "expiry data": "20-12-2023"
+    "expiry date": "20-12-2023",
+    "manufacture date": "1-20-2022",
+    "company": "Lupin",
+    "unit price": "2"
   },
   {
     "name": "Ketoconazole",
-    "expiry date": "04-05-2023",
-    "id":6
+    "expiry date": "5-4-2020",
+    "id": 6,
+    "manufacture date": "1-20-2019",
+    "company": "Dr Reddy's Laboratories",
+    "unit price": "25"
   },
   {
     "name": "Keto",
-    "expiry date": "04-05-2023",
-    "id": 7
+    "expiry date": "4-5-2023",
+    "id": 7,
+    "manufacture date": "1-20-2022",
+    "company": "Dr Reddy's Laboratories",
+    "unit price": "15"
   },
   {
     "name": "Immunosate",
-    "expiry date": "04-05-2023",
-    "id":8
+    "expiry date": "4-5-2020",
+    "id": 8,
+    "manufacture date": "1-20-2018",
+    "company": "Dr Reddy's Laboratories",
+    "unit price": "8"
   },
   {
     "name": "Revital",
-    "id":9,
-    "expiry date": "04-05-2023"
+    "id": 9,
+    "expiry date": "4-5-2023",
+    "manufacture date": "1-20-2022",
+    "company": "Dr Reddy's Laboratories",
+    "unit price": "12"
+  },
+  {
+    "name": "Neoprofen",
+    "expiry date": "4-5-2023",
+    "manufacture date": "1-20-2022",
+    "company": "Dr Reddy's Laboratories",
+    "unit price": "20",
+    "id": 10
+  },
+  {
+    "name": "Cofsils",
+    "expiry date": "11-20-2023",
+    "manufacture date": "1-20-2022",
+    "company": "Lupin",
+    "unit price": "2",
+    "id": 11
   }
 ]
